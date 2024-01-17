@@ -3,17 +3,17 @@
 ## 1. Brief introduction 
 The **F**ourier optics-based **U**ltrashort x-**R**ay pulse propagat**ION** package (**FURION**) is a comprehensive optical simulation software primarily used for the design of synchrotron radiation and free-electron laser beamline systems. FURION not only has the capability to simulate ultra-short X-ray pulse propagation, but also possesses some other functionalities, such as particle tracing in four-dimensional phase space, particle tracing in six-dimensional phase space, wavefront propagation, pulse propagation based on six-dimensional matrixes, etc. FURION is also capable of calculating optical properties of materials, including reflectivity, complex refractive index, attenuation coefficient, reflectivity of multilayer, and rocking curve of crystal.
 
-## &emsp;2. Features of FURION
+## 2. Features of FURION
 
-### 2.1. Ray tracing in 4-D phase space: 
+### &emsp;2.1. Ray tracing in 4-D phase space: 
 FURION can provide geometric ray tracing simulation in the (x, x', y, y') phase space, capable of describing the evolution of transverse beam profile and divergence in beamline systems.
-### 2.2. Ray tracing in 6-D phase space: 
+### &emsp;2.2. Ray tracing in 6-D phase space: 
 FURION can also provide geometric ray tracing simulation in the (x, x', y, y', t, E) phase space, capable of describing the evolution of pulse properties in beamline systems, such as transverse beam profile, divergence, pulse duration, and dispersion. This 6-D phase-space ray tracing can assess the propagation of ultra-short pulses in dispersive beamline systems.
 
-### 2.3. Wavefront propagation：
+### &emsp;2.3. Wavefront propagation：
 FURION can provide wavefront propagation based on Fourier optics. In this module, the beam passes through optical elements by using local ray tracing method. FURION offers various free-space propagation models, including the Fresnel propagator, angular spectrum propagator, Kirchhoff integral propagator, Rayleigh-Sommerfeld integral propagator, and Collins integral propagator.
 
-### 2.4. Pulse propagation base on K matrixes: 
+### &emsp;2.4. Pulse propagation base on K matrixes: 
 The FURION team developed K-matrixes for different types of X-ray optical elements. Based on the K-matrix method, FURION provides 6-D phase-space ray tracing module and pulse propagation module. It is important to note that the ray tracing here is limited to describing linear transmission and cannot account for higher-order aberrations and astigmatism effects associated with different-shaped curved mirrors, distinguishing it from the direct tracing in sections 2.1 and 2.2. The pulse propagation module based on the K-matrix can rapidly construct the 3-D optical field after passing through beamline systems, but the assessment of diffraction effects requires integration with modules based on Fourier optics.
 
 FURION can also provide geometric ray tracing simulation in the (x, x', y, y', t, E) phase space, capable of describing the evolution of pulse properties in beamline systems, such as transverse beam profile, divergence, pulse duration, and dispersion. This 6-D phase-space ray tracing can assess the propagation of ultra-short pulses in dispersive beamline systems.
