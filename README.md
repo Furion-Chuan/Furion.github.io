@@ -32,7 +32,7 @@ The FURION team developed K-matrixes for different types of X-ray optical elemen
 - **Others**: FURION is also capable of calculating the reflectivity of mirrors, complex refractive index, attenuation coefficient, and so on.
 
 
-
+## 3. Software Development Progress and Updates 
 Currently, our research and development team is actively working on developing the FURION user interface, with the aim of making it available to professionals in the X-ray community in the near future. If you have any related questions or discussions, please feel free to send your inquiries to:  yangc@mail.iasf.ac.cn.
 
 
