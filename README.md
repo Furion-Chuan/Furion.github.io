@@ -32,7 +32,7 @@ FURION employs dynamical diffraction theory and matrix iteration method to calcu
 FURION can provide different types of gratings, including toroidal grating, spherical grating, cylindrical grating, planar grating, toroidal VLS grating, spherical VLS grating, cylindrical VLS grating, and planar VLS grating.
 
 ### &emsp;2.10. Optical properties of materials: 
--Crystals:
+- Crystals:
 FURION is also capable of calculating optical properties of materials, including reflectivity, complex refractive index, attenuation coefficient, reflectivity of multilayer, and rocking curve of crystal.
 
 
