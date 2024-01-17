@@ -33,8 +33,8 @@ FURION can provide different types of gratings, including toroidal grating, sphe
 ### &emsp;2.10. Optical properties of materials: 
 - **Crystals**: FURION calculates the reflectivity and transmissivity of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
 - **Multilayers**: FURION employs dynamical diffraction theory and matrix iteration method to calculate the reflectivity and transmissivity of multilayers. Typically, periodic multilayers and asymmetry-cut multilayers use the dynamical diffraction method, while periodic and non-periodic multilayers use the matrix iteration method.
-- **Gratings**: The efficiency of gratings is calculated using Rigorous Coupled Wave Analysis (RCWA) method. 
-FURION is also capable of calculating optical properties of materials, including reflectivity, complex refractive index, attenuation coefficient, reflectivity of multilayer, and rocking curve of crystal.
+- **Gratings**: The efficiency of gratings is calculated using Rigorous Coupled Wave Analysis (RCWA) method.
+- **Others**: FURION is also capable of calculating the reflectivity of mirrors, complex refractive index, attenuation coefficient, and so on.
 
 
 
