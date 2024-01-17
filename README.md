@@ -30,7 +30,7 @@ FURION is capable of providing ultra-short pulse propagation based on Fourier op
 The FURION team developed K-matrixes for different types of X-ray optical elements. Based on the K-matrix method, FURION provides 6-D phase-space ray tracing module and pulse propagation module. It is important to note that the ray tracing here is limited to describing linear transmission and cannot account for higher-order aberrations and astigmatism effects associated with different-shaped curved mirrors, distinguishing it from the direct tracing in sections 2.1 and 2.2. The pulse propagation module based on the K-matrix can rapidly construct the 3-D optical field after passing through beamline systems, but the assessment of diffraction effects requires integration with modules based on Fourier optics.
 
 <p align="center">
-<img src="https://github.com/Furion-Chuan/Furion.github.io/blob/main/figure5.jpg" width="800px">
+<img src="https://github.com/Furion-Chuan/Furion.github.io/blob/main/figure4.jpg" width="800px">
 
 
 ### &emsp;2.6. X-ray optics: 
