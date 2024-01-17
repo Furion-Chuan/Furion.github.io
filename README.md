@@ -20,18 +20,13 @@ FURION is capable of providing ultra-short pulse propagation based on Fourier op
 The FURION team developed K-matrixes for different types of X-ray optical elements. Based on the K-matrix method, FURION provides 6-D phase-space ray tracing module and pulse propagation module. It is important to note that the ray tracing here is limited to describing linear transmission and cannot account for higher-order aberrations and astigmatism effects associated with different-shaped curved mirrors, distinguishing it from the direct tracing in sections 2.1 and 2.2. The pulse propagation module based on the K-matrix can rapidly construct the 3-D optical field after passing through beamline systems, but the assessment of diffraction effects requires integration with modules based on Fourier optics.
 
 ### &emsp;2.6. X-ray optics: 
--**Mirrors**: FURION is capable of providing various types of mirrors, including planar mirror, spherical mirror, ellipsoidal mirror, toroidal mirror, parabolic mirror, cylindrical mirror, elliptical cylindrical mirror, and parabolic cylindrical mirror.
+- **Mirrors**: FURION is capable of providing various types of mirrors, including planar mirror, spherical mirror, ellipsoidal mirror, toroidal mirror, parabolic mirror, cylindrical mirror, elliptical cylindrical mirror, and parabolic cylindrical mirror.
+- **Gratings**: FURION can provide different types of gratings, including toroidal grating, spherical grating, cylindrical grating, planar grating, toroidal VLS grating, spherical VLS grating, cylindrical VLS grating, planar VLS grating, and so on.
+- **Crystals**: Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
+- **Multilayers**:
 
-
-
-### &emsp;2.8. Multilayers: 
-
-
-### &emsp;2.9. Gratings: 
-FURION can provide different types of gratings, including toroidal grating, spherical grating, cylindrical grating, planar grating, toroidal VLS grating, spherical VLS grating, cylindrical VLS grating, and planar VLS grating.
-
-### &emsp;2.10. Optical properties of materials: 
-- **Crystals**: FURION calculates the reflectivity and transmissivity of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
+### &emsp;2.7. Optical properties of materials: 
+- **Crystals**: FURION calculates the reflectivity and transmissivity of crystals using dynamical theory of X-ray diffraction. 
 - **Multilayers**: FURION employs dynamical diffraction theory and matrix iteration method to calculate the reflectivity and transmissivity of multilayers. Typically, periodic multilayers and asymmetry-cut multilayers use the dynamical diffraction method, while periodic and non-periodic multilayers use the matrix iteration method.
 - **Gratings**: The efficiency of gratings is calculated using Rigorous Coupled Wave Analysis (RCWA) method.
 - **Others**: FURION is also capable of calculating the reflectivity of mirrors, complex refractive index, attenuation coefficient, and so on.
