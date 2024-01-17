@@ -6,7 +6,7 @@ The **F**ourier optics-based **U**ltrashort x-**R**ay pulse propagat**ION** pack
 
 ### &emsp;2.1. Ray tracing in 4-D phase space: 
 FURION can provide geometric ray tracing simulation in the (x, x', y, y') phase space, capable of describing the evolution of transverse beam profile and divergence in beamline systems.
-
+<p align="center">
 <img src="https://github.com/Furion-Chuan/Furion.github.io/blob/main/figure1.jpg" width="800px">
 
 ### &emsp;2.2. Ray tracing in 6-D phase space: 
