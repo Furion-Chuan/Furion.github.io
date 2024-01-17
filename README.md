@@ -28,7 +28,8 @@ FURION calculates the reflectivity and transmissivity of crystals using dynamica
 ### &emsp;2.8. Multilayers: 
 FURION employs dynamical diffraction theory and matrix iteration method to calculate the reflectivity and transmissivity of multilayers. Typically, periodic multilayers and asymmetry-cut multilayers use the dynamical diffraction method, while periodic and non-periodic multilayers use the matrix iteration method.
 
-FURION calculates the reflectivity and transmissivity curves of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
+### &emsp;2.8. Gratings: 
+FURION can provide different types of gratings, including toroidal grating, spherical grating, cylindrical grating, planar grating, toroidal VLS grating, spherical VLS grating, cylindrical VLS grating, and planar VLS grating.
 
 
 Currently, our research and development team is actively working on developing the FURION user interface, with the aim of making it available to professionals in the X-ray community in the near future. If you have any related questions or discussions, please feel free to send your inquiries to:  yangc@mail.iasf.ac.cn.
