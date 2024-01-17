@@ -22,8 +22,8 @@ The FURION team developed K-matrixes for different types of X-ray optical elemen
 ### &emsp;2.6. X-ray optics: 
 - **Mirrors**: FURION is capable of providing various types of mirrors, including planar mirror, spherical mirror, ellipsoidal mirror, toroidal mirror, parabolic mirror, cylindrical mirror, elliptical cylindrical mirror, and parabolic cylindrical mirror.
 - **Gratings**: FURION can provide different types of gratings, including toroidal grating, spherical grating, cylindrical grating, planar grating, toroidal VLS grating, spherical VLS grating, cylindrical VLS grating, planar VLS grating, and so on.
-- **Crystals**: Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
-- **Multilayers**:
+- **Crystals**: FURION can provide different types of crystals operating in either Bragg or Laue cases, either in reflection or transmission.
+- **Multilayers**: FURION can provide periodic and non-periodic multilayers.
 
 ### &emsp;2.7. Optical properties of materials: 
 - **Crystals**: FURION calculates the reflectivity and transmissivity of crystals using dynamical theory of X-ray diffraction. 
