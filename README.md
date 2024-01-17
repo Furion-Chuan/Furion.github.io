@@ -29,6 +29,10 @@ FURION is capable of providing ultra-short pulse propagation based on Fourier op
 ### &emsp;2.5. Pulse propagation base on K matrixes: 
 The FURION team developed K-matrixes for different types of X-ray optical elements. Based on the K-matrix method, FURION provides 6-D phase-space ray tracing module and pulse propagation module. It is important to note that the ray tracing here is limited to describing linear transmission and cannot account for higher-order aberrations and astigmatism effects associated with different-shaped curved mirrors, distinguishing it from the direct tracing in sections 2.1 and 2.2. The pulse propagation module based on the K-matrix can rapidly construct the 3-D optical field after passing through beamline systems, but the assessment of diffraction effects requires integration with modules based on Fourier optics.
 
+<p align="center">
+<img src="https://github.com/Furion-Chuan/Furion.github.io/blob/main/figure5.jpg" width="800px">
+
+
 ### &emsp;2.6. X-ray optics: 
 - **Mirrors**: FURION is capable of providing various types of mirrors, including planar mirror, spherical mirror, ellipsoidal mirror, toroidal mirror, parabolic mirror, cylindrical mirror, elliptical cylindrical mirror, and parabolic cylindrical mirror.
 - **Gratings**: FURION can provide different types of gratings, including toroidal grating, spherical grating, cylindrical grating, planar grating, toroidal VLS grating, spherical VLS grating, cylindrical VLS grating, planar VLS grating, and so on.
