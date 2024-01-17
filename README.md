@@ -11,6 +11,8 @@ FURION can provide geometric ray tracing simulation in the (x, x', y, y') phase 
 
 ### &emsp;2.2. Ray tracing in 6-D phase space: 
 FURION can also provide geometric ray tracing simulation in the (x, x', y, y', t, E) phase space, capable of describing the evolution of pulse properties in beamline systems, such as transverse beam profile, divergence, pulse duration, and dispersion. This 6-D phase-space ray tracing can assess the propagation of ultra-short pulses in dispersive beamline systems.
+<p align="center">
+<img src="https://github.com/Furion-Chuan/Furion.github.io/blob/main/figure2.jpg" width="800px">
 
 ### &emsp;2.3. Wavefront propagation：
 FURION can provide wavefront propagation based on Fourier optics. In this module, the beam passes through optical elements by using local ray tracing method. FURION offers various free-space propagation models, including the Fresnel propagator, angular spectrum propagator, Kirchhoff integral propagator, Rayleigh-Sommerfeld integral propagator, and Collins integral propagator.
