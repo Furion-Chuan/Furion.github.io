@@ -10,7 +10,7 @@ FURION can provide geometric ray tracing simulation in the (x, x', y, y') phase 
 ### 2.2. Ray tracing in 6-D phase space: 
 FURION can also provide geometric ray tracing simulation in the (x, x', y, y', t, E) phase space, capable of describing the evolution of pulse properties in beamline systems, such as transverse beam profile, divergence, pulse duration, and dispersion. This 6-D phase-space ray tracing can assess the propagation of ultra-short pulses in dispersive beamline systems.
 
-### 2.3. Ray tracing in 6-D phase space base on K matrixes: 
+### 2.3. Pulse propagation base on K matrixes: 
 FURION can also provide geometric ray tracing simulation in the (x, x', y, y', t, E) phase space, capable of describing the evolution of pulse properties in beamline systems, such as transverse beam profile, divergence, pulse duration, and dispersion. This 6-D phase-space ray tracing can assess the propagation of ultra-short pulses in dispersive beamline systems.
 
 
