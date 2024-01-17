@@ -22,17 +22,18 @@ The FURION team developed K-matrixes for different types of X-ray optical elemen
 ### &emsp;2.6. Mirrors: 
 FURION is capable of providing various types of mirrors, including planar mirror, spherical mirror, ellipsoidal mirror, toroidal mirror, parabolic mirror, cylindrical mirror, elliptical cylindrical mirror, and parabolic cylindrical mirror.
 
-### &emsp;2.7. Crystals: 
-FURION calculates the reflectivity and transmissivity of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
+
 
 ### &emsp;2.8. Multilayers: 
-FURION employs dynamical diffraction theory and matrix iteration method to calculate the reflectivity and transmissivity of multilayers. Typically, periodic multilayers and asymmetry-cut multilayers use the dynamical diffraction method, while periodic and non-periodic multilayers use the matrix iteration method.
+
 
 ### &emsp;2.9. Gratings: 
 FURION can provide different types of gratings, including toroidal grating, spherical grating, cylindrical grating, planar grating, toroidal VLS grating, spherical VLS grating, cylindrical VLS grating, and planar VLS grating.
 
 ### &emsp;2.10. Optical properties of materials: 
-- Crystals:
+- **Crystals**: FURION calculates the reflectivity and transmissivity of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
+- **Multilayers**: FURION employs dynamical diffraction theory and matrix iteration method to calculate the reflectivity and transmissivity of multilayers. Typically, periodic multilayers and asymmetry-cut multilayers use the dynamical diffraction method, while periodic and non-periodic multilayers use the matrix iteration method.
+- **Gratings**: The efficiency of gratings is calculated using Rigorous Coupled Wave Analysis (RCWA) method. 
 FURION is also capable of calculating optical properties of materials, including reflectivity, complex refractive index, attenuation coefficient, reflectivity of multilayer, and rocking curve of crystal.
 
 
