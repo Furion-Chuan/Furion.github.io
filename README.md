@@ -5,6 +5,8 @@ The **F**ourier optics-based **U**ltrashort x-**R**ay pulse propagat**ION** pack
 
 ## Features of FURION
 
+### 4-D phase space ray tracing: 
+
 Currently, our research and development team is actively working on developing the FURION user interface, with the aim of making it available to professionals in the X-ray community in the near future. If you have any related questions or discussions, please feel free to send your inquiries to:  yangc@mail.iasf.ac.cn.
 
 # 
