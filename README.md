@@ -23,9 +23,11 @@ The FURION team developed K-matrixes for different types of X-ray optical elemen
 FURION is capable of providing various types of mirrors, including planar mirror, spherical mirror, ellipsoidal mirror, toroidal mirror, parabolic mirror, cylindrical mirror, elliptical cylindrical mirror, and parabolic cylindrical mirror.
 
 ### &emsp;2.7. Crystals: 
-FURION calculates the reflectivity and transmissivity curves of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
+FURION calculates the reflectivity and transmissivity of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
 
 ### &emsp;2.8. Multilayers: 
+FURION employs dynamical diffraction theory and matrix iteration method to calculate the reflectivity and transmissivity of multilayers. Typically, periodic multilayers and asymmetry-cut multilayers use the dynamical diffraction method, while periodic and non-periodic multilayers use the matrix iteration method.
+
 FURION calculates the reflectivity and transmissivity curves of crystals using dynamical theory of X-ray diffraction. Crystals can operate in either Bragg or Laue cases, either in reflection or transmission.
 
 
